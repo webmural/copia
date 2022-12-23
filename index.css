@@ -11,12 +11,8 @@ body {
   margin: auto;
 }
 
-[rel=home] {
-  text-decoration-style: dashed;
-}
-
-[rel=help] {
-  text-decoration-style: wavy;
+:hover {
+  text-decoration-style: double;
 }
 
 :focus {
